@@ -1,0 +1,6 @@
+{
+  "name": "Student Life Pressure",
+  "description": "A living 3D archive visualizing the multifaceted pressures, academic stress, career anxiety, and emotional landscapes of student life.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
